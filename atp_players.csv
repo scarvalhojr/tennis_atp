@@ -543,7 +543,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 100542,Geoff,Macdonald,R,19580605,USA,,Q5534214
 100543,Peter,Elter,R,19580610,GER,178,Q7173851
 100544,Tony,Mmoh,R,19580614,NGR,178,Q2442732
-100545,Deon,Joubert,L,19530619,RSA,,Q18340778
+100545,Deon,Joubert,L,19530610,RSA,,Q18340778
 100546,Eric,Fromm,R,19580627,USA,178,Q3056270
 100547,Rocky,Royer,R,19580627,USA,,Q54614192
 100548,Ivan,Kley,R,19580629,BRA,183,Q10304381
@@ -1493,7 +1493,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 101492,Sander,Groen,L,19680616,NED,190,Q2070530
 101493,Christian,Weis,R,19680620,GER,180,Q55314837
 101494,Simone,Restelli,R,19680621,ITA,,
-101495,Miguel,Tobon,R,20060619,COL,185,Q3313008
+101495,Miguel,Tobon,R,19680622,COL,185,Q3313008
 101496,David,Pons,R,19680626,AND,,
 101497,Douglas,Sachs,R,19680702,USA,,
 101498,Clinton,Ferreira,R,19680705,RSA,,Q24006385
@@ -2058,7 +2058,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 102057,Devin,Bowen,R,19720518,USA,183,Q1206885
 102058,Carlos,Rojas,R,19720520,PAR,,
 102059,Robert,Devens,R,19720520,USA,,
-102060,Ignacio,Martinez,R,19990113,VEN,185,Q85768953
+102060,Ignacio,Martinez,R,19720523,MEX,175,Q85768953
 102061,Kevin,Ullyett,R,19720523,ZIM,178,Q369257
 102062,Guillaume,Marx,R,19720524,FRA,,Q55956139
 102063,Yannick,Goguey,R,19720524,FRA,,
@@ -2770,7 +2770,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 102769,Andres,Schneiter,R,19760408,ARG,,Q4760270
 102770,John,Van Lottum,R,19760410,NED,185,Q937072
 102771,Leslie,Demiliani,R,19760412,FRA,,
-102772,Yu,Zhang,R,20020822,CHN,,Q104840456
+102772,Yu,Zhang,R,19760412,CHN,,Q104840456
 102773,Kacper,Cecek,R,19760414,GER,,
 102774,Katsushi,Fukuda,R,19760414,JPN,,
 102775,Tim,Crichton,R,19760415,AUS,,Q7803372
@@ -9892,7 +9892,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 109905,Chuck,Darley,U,19460613,USA,,
 109906,Don,Kierbow,U,19340628,USA,,
 109907,Henry,Kamakana,R,19420922,USA,,
-109908,Tom,Brown,R,19980828,USA,180,Q500029
+109908,Tom,Brown,R,19220926,USA,185,Q500029
 109909,Bobby,Siska,U,19421201,USA,,
 109910,Jim,Mclennan,U,,USA,,
 109911,Jose,Cordon,U,,,,
