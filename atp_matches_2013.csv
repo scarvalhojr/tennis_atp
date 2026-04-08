@@ -2436,7 +2436,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-D080,Davis Cup WG PO: BEL vs ISR,Clay,4,D,20130912,5,104327,,,Steve Darcis,R,178,BEL,29.4,104804,,,Amir Weintraub,R,188,ISR,26.9,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,,165,306,184,258
 2013-D040,Davis Cup G1 PO: DOM vs CHI,Hard,4,D,20130913,1,105497,,,Jose Hernandez,R,183,DOM,23.4,104154,,,Paul Capdeville,R,190,CHI,30.4,6-4 7-6(3) 7-5,5,RR,,,,,,,,,,,,,,,,,,,,337,123,151,370
 2013-D040,Davis Cup G1 PO: DOM vs CHI,Hard,4,D,20130913,2,103607,,,Victor Estrella,R,173,DOM,33.1,106426,,,Cristian Garin,R,185,CHI,17.2,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,,271,165,395,94
-2013-D040,Davis Cup G1 PO: DOM vs CHI,Hard,4,D,20130913,4,106232,,,Roberto Cid,R,193,DOM,20.0,111797,,,Nicolas Jarry,R,201,CHI,17.9,6-4 2-2,3,RR,,,,,,,,,,,,,,,,,,,,2091,1,1158,6
+2013-D040,Davis Cup G1 PO: DOM vs CHI,Hard,4,D,20130913,4,106232,,,Roberto Cid,R,193,DOM,20.0,111797,,,Nicolas Jarry,R,201,CHI,17.9,6-4 2-2 RET,3,RR,,,,,,,,,,,,,,,,,,,,2091,1,1158,6
 2013-D040,Davis Cup G1 PO: DOM vs CHI,Hard,4,D,20130913,5,106426,,,Cristian Garin,R,185,CHI,17.2,126209,,,Peter Bertran,R,183,DOM,17.5,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,395,94,,
 2013-D041,Davis Cup G1 PO: SLO vs RSA,Clay,4,D,20130913,1,105641,,,Blaz Rola,L,193,SLO,22.9,103573,,,Rik De Voest,R,180,RSA,33.2,6-1 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,,208,221,162,320
 2013-D041,Davis Cup G1 PO: SLO vs RSA,Clay,4,D,20130913,2,104882,,,Blaz Kavcic,R,188,SLO,26.5,105434,,,Ruan Roelofse,R,188,RSA,23.8,6-1 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,,105,526,524,60
